@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jm-financials",
+  "private_key_id": "913d163aa0c8b2da1274feb2ad6c07c39213fd94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDsZfR1xddtGtRx\n8ujD0uCO5Zrc9wSjKGDe8ROiDj1a1Dp96c8oGJFMqldTPWSSvA8oHHctYiuoG7Sn\nPHY8f7zG9uInQ9Y2jX01i5PoYyIkDek3LQbLAekhDSPhzPXYlHNJDp3PbEUvV3f9\nKezUEKwtkv/gi2o8isCa53UXzuDBH35FZBC3sagnK2SzKORk6NloqdHdy1Gt5oIX\nso5XPazkXCUjhs3i8Q05at9j6UDOCxhPMZdh2j9CE8C1KQsZHXUO8pkso8N5dG/i\nwWff8r2YJcv94Xp0DxhsgFJM/nGIjFTFVuKnwJF3K/QO00cg64wYspG0tbwwViZ2\nTLV5xqm/AgMBAAECgf9WRUvbugYE9rq8pIc9Ub1wtQiNxskLJBi41soMoORbuTiE\nLWKizPfXq4OPex79ESyia+Gq1G+c728kUi244PrYDnItzGLd3OWDIkFrK3C3Hyt/\n1qf7IdgNmdPQLD23oMySesiENlYkiUn/YMVT2uJ4NyfYmVSTXBqMFk38UfW+uqRy\nv2SAH6CvKk3RhiYPDMCdK1inh4+Mr81Ywbob/bg/R8Up3TV7GQG+QuskxBp40EJI\nNhuXT9clSOXxJ92Or0u/Unu22qlpXrc2gsbYBvSjQ0zRRF0B0/4d1FBJZgb41rDO\nzcZf/K5hBI66M4FkNE0AiHKacGB+i34D2kKaZ8ECgYEA+/f3Q9bv2AXB+2g7RvN+\nQzxLUZVm3V7sdsjRFpiHOCOJDg/ODHYEZWIC9mVhqyZDWTgxr0gGdk6yzZDC3Q5g\n6jlzygq+Xj2ybgREVz0rvOnQHjL0HS5O2VSDBszKeE+56T3flnPnhi4MhsZCaRsG\nBG+3HD+LqXWLcqgCeQA5ASECgYEA8C429Uzj+eBGHPaDXSwisa4SAJ66CKSVj4Br\nygZhGvU8ryJdxsbb7YoBS1iYOR7xLZmWiat6vjGmrJ4orNEVvKnTLh8bHBhmEUu1\nAQfEdlFjFWgghhb+ZV/WdCsdQBd90RE3qybMpaeyHIkCJlMu1272NCMJiX8wao+p\nntzS7t8CgYAfhMczf0GFXkMDtegkWfUjZ/lr/Spe6q7dtQUitHXFufw8/BEkUeb+\n36HLPKdZB3JJSNQ+Pt5AElwfhso5aMEKy6EGVw21MDaPuIzr9MTx3rWf8XPD6rUG\nTqINSbTSE/cHjCvZ4CnICR6cBVTtXOoFyAu5xuErk36cGxQkGrkGwQKBgCjup10c\n0omGSEytUmvxlqQTV2wVoPzSF88SAsy2U5xFiScLw1GaGGceKuRNX/v0IwQzda1W\ntR9u1Mn8VlBFfd/eTWhB0tvx6IswDNP1H+1OJ4XBbjGL/6UFNUYtBtoiZsXXmlYn\n0Z61uqwUSXKAoK4Ech8mjXyKWZT/kNfLKIOfAoGBAOwhRrOO7JFqAs4O2XE3OhWM\nfv2jPdLKMbyUEurTMmLTJnhkezLt7v8GlZZPuJ5SO1JxfSuFLWviYkl5g6ADrxS/\nF3uvYdulJ2Fpf9TDfS5bK2ifVHlyrwgAZSmRsJmaPmI8/3mHJCRLp3925uQ65A/R\nIH4Tw2NTJ18/938QSRYb\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-jesus@jm-financials.iam.gserviceaccount.com",
+  "client_id": "108339100165902086463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-jesus%40jm-financials.iam.gserviceaccount.com"
+}
